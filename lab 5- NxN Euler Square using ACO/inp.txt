@@ -1,0 +1,17 @@
+3
+3
+100
+1.9
+0.9
+0.05
+0.5
+
+
+legenda:
+input 0 : size-ul problemei
+input 1 : nr de furnici
+input 2 : iteratiile
+input 3 : alpha
+input 4 : beta
+input 5 : q0
+input 6 : rho
