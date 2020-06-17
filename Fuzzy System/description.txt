@@ -1,0 +1,33 @@
+The algorithm works like this:
+	-reads the data 
+	-Fuzzifies the data
+	-Inferences data
+	-Calculates the weighted average of the data using SUGENO
+
+
+
+The Sugeno model used by this solution  computes the function depending on inputs.
+Using a model of degree 1, f(x, y) = ax + by + c
+
+
+
+RESULT:
+conjunction =  0
+conjunction =  0
+conjunction =  0
+conjunction =  0
+conjunction =  0
+conjunction =  0
+conjunction =  0
+conjunction =  0
+conjunction =  0.4
+conjunction =  0.4
+conjunction =  0
+conjunction =  0
+conjunction =  0
+conjunction =  0
+conjunction =  0.2
+conjunction =  0.2
+conjunction =  0
+0.4 * 20.0 + 0.2 * 12.0 
+time: 53.33333333333333

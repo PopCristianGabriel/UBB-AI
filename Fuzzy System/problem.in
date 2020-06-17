@@ -1,0 +1,33 @@
+very cold,-1000,-30,-20,5
+cold,-5,0,10
+normal,5,10,15,20
+warm,15,20,25
+hot,25,30,35,1000
+----
+dry,-1000,0,50
+normal,0,50,100
+wet,50,100,1000
+----
+short,-1000,0,50
+50,0
+medium,0,50,100
+0,50,100
+long,50,100,1000
+50,100
+----
+very cold,wet,short
+cold,wet,short
+normal,wet,short
+warm,wet,short
+hot,wet,medium
+very cold,normal,short
+cold,normal,medium
+normal,normal,medium
+warm,normal,medium
+hot,normal,long
+very cold,dry,medium
+cold,dry,long
+normal,dry,long
+warm,dry,long
+hot,dry,long
+----
